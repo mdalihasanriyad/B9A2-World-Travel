@@ -181,7 +181,7 @@ select {
 }
 
 .des-img1 {
-    background-image: url('/Images/Rectangle\ 5.png');
+    background-image: url('../Images/Rectangle\ 5.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -196,7 +196,7 @@ select {
 }
 
 .des-img2 {
-    background-image: url('/Images/Rectangle\ 8.png');
+    background-image: url('../Images/Rectangle\ 8.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -216,7 +216,7 @@ select {
 }
 
 .des-img3 {
-    background-image: url('/Images/Rectangle\ 6.png');
+    background-image: url('../Images/Rectangle\ 6.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -229,7 +229,7 @@ select {
 }
 
 .des-img4 {
-    background-image: url('/Images/Rectangle\ 7.png');
+    background-image: url('../Images/Rectangle\ 7.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -242,7 +242,7 @@ select {
 }
 
 .des-img5 {
-    background-image: url('/Images/Rectangle\ 9.png');
+    background-image: url('../Images/Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -262,7 +262,7 @@ select {
 }
 
 .des-img6 {
-    background-image: url('/Images/Rectangle\ 11.png');
+    background-image: url('../Images/Rectangle\ 11.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -275,7 +275,7 @@ select {
 }
 
 .des-img7 {
-    background-image: url('/Images/Rectangle\ 10.png');
+    background-image: url('../Images/Rectangle\ 10.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -353,7 +353,7 @@ select {
 }
 
 .price1 {
-    background-image: url('/Images/Group\ 39.png');
+    background-image: url('../Images/Group\ 39.png');
     background-repeat: no-repeat;
     width: 1270px;
     min-height: 500px;
@@ -405,7 +405,7 @@ select {
 }
 
 .price2 {
-    background-image: url('/Images/Group\ 40.png');
+    background-image: url('../Images/Group\ 40.png');
     background-repeat: no-repeat;
     width: 1270px;
     min-height: 500px;
@@ -426,7 +426,7 @@ select {
 }
 
 .price3 {
-    background-image: url('/Images/Group\ 39.png');
+    background-image: url('../Images/Group\ 39.png');
     background-repeat: no-repeat;
     width: 1270px;
     min-height: 500px;
@@ -542,7 +542,7 @@ legend {
 
 .from-sec-2 {
     width: 50%;
-    background-image: url('/Images/Rectangle\ 8\ \(1\).png');
+    background-image: url('../Images/Rectangle\ 8\ \(1\).png');
     min-height: 400px;
     border-radius: 16px;
 }
