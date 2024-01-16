@@ -445,6 +445,47 @@ select {
     margin-left: 480px;
     padding-left: 20px;
 }
+/* Special-offer section */
+.Special-offer{
+    width: 1270px;
+    min-height: 370px;
+    display: flex;
+    gap: 30px;
+    margin: 0 auto;
+    
+}
+.spech-text{
+    text-align: center;
+    margin: 20px auto;
+    font-size: 2.2em;
+    color: #131318;
+}
+.spc-of1{
+    width: 33%;
+    background-color: rgba(19, 19, 24, 0.05);
+    border-radius: 15px;
+    padding: 15px;
+}
+.spc-of2{
+    width: 34%;
+    background-color: rgba(19, 19, 24, 0.05);
+    border-radius: 15px;
+    padding: 15px ;
+}
+.spc-of3{
+    width: 33%;
+    background-color: rgba(19, 19, 24, 0.05);
+    border-radius: 15px;
+    padding: 15px;
+}
+.see-btn{
+    background-color: #FF5400;
+    color: #FFF;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 15px;
+}
 
 /* perfect section */
 .perfect {
