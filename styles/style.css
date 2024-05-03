@@ -157,6 +157,7 @@ select {
 /* Destination section */
 .destination-text {
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .des-h1 {
@@ -177,6 +178,7 @@ select {
     margin: 0 auto;
 }
 
+
 .destination p {
     color: #FFF;
     font-size: 1.5em;
@@ -191,7 +193,7 @@ select {
     margin: 0 auto;
     display: flex;
     width: 100%;
-    min-height: 400px;
+    min-height: 300px;
     text-align: center;
     gap: 25px;
     margin-right: 0;
@@ -206,7 +208,7 @@ select {
     margin: 0 auto;
     display: flex;
     width: 100%;
-    min-height: 400px;
+    min-height: 300px;
     text-align: center;
     margin-left: 0;
 }
@@ -218,7 +220,7 @@ select {
 }
 
 .des-img3 {
-    background-image: url('../Images/Rectangle\ 6.png');
+    background-image: url('../Images/Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -231,7 +233,7 @@ select {
 }
 
 .des-img4 {
-    background-image: url('../Images/Rectangle\ 7.png');
+    background-image: url('../Images/Rectangle\ 6.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -271,12 +273,12 @@ select {
     margin: 0 auto;
     display: flex;
     width: 100%;
-    min-height: 400px;
+    min-height: 300px;
     text-align: center;
 }
 
 .des-img7 {
-    background-image: url('../Images/Rectangle\ 10.png');
+    background-image: url('../Images/Rectangle\ 6.png');
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
@@ -284,12 +286,13 @@ select {
     margin: 0 auto;
     display: flex;
     width: 100%;
-    min-height: 400px;
+    min-height: 300px;
 }
 
 /* choose section */
 
 .choose-text {
+    margin-top: 40px;
     text-align: center;
 }
 
